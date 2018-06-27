@@ -1,4 +1,4 @@
-# Algodinha
+# Algodinha keek xd
 
 Algoritmo de negociação automatizada para Bitcoin - via Foxbit / [Blinktrade](https://github.com/blinktrade/BlinkTradeJS).
 
